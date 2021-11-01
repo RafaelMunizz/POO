@@ -1,0 +1,1 @@
+cd "/media/rafael/Armazenamento/RepositoriosGithub/ExerciciosIFPB/C++/Unidade2/Atividade4/Quest7/" && g++ main.cpp Animal.cpp Animal.h Cachorro.cpp Cachorro.h Gato.cpp Gato.h -o main && "/media/rafael/Armazenamento/RepositoriosGithub/ExerciciosIFPB/C++/Unidade2/Atividade4/Quest7/"main

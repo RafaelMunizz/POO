@@ -1,0 +1,1 @@
+cd "/media/rafael/Armazenamento/RepositoriosGithub/ExerciciosIFPB/C++/ProjetoFinal/Poo-Unidade3-Quest7/" && g++ main.cpp Cliente.cpp Empresa.cpp Funcionario.cpp Pessoa.cpp -o main && "/media/rafael/Armazenamento/RepositoriosGithub/ExerciciosIFPB/C++/ProjetoFinal/Poo-Unidade3-Quest7/"main

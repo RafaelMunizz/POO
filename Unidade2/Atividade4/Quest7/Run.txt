@@ -1,0 +1,1 @@
+cd "/media/rafael/Armazenamento/RepositoriosGithub/ExerciciosIFPB/C++/Unidade2/Atividade4/Quest8/" && g++ main.cpp Imovel.h Imovel.cpp ImovelNovo.h ImovelNovo.cpp ImovelVelho.h ImovelVelho.cpp -o main && "/media/rafael/Armazenamento/RepositoriosGithub/ExerciciosIFPB/C++/Unidade2/Atividade4/Quest8/"main
